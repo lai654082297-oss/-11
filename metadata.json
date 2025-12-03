@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Christmas Tree",
+  "description": "A high-end, interactive 3D Christmas experience featuring gesture control, photo spiral visualization, and immersive audio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
